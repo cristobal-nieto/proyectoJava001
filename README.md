@@ -6,5 +6,4 @@ El proyecto está compuesto de dos ejercicios :
 
  * Ejercicio 1: creación de una calculadora de forma básica.
 
- * 
-Ejercicio 2: creación de una calculadora de forma básica mediante funciones,procedimientos y llamadas.
+ * Ejercicio 2: creación de una calculadora de forma básica mediante funciones,procedimientos y llamadas.
